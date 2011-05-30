@@ -1,6 +1,6 @@
-CL-FIBER is a simple API for creating cooperative multithreads. It is
-based on cl-cont and uses delimited continuations to form fibers. The
-API is fashioned after SB-THREAD and has similar public interface.
+CL-FIBER is a simple API for creating cooperative multithreads in Common
+Lisp . It is based on cl-cont and uses delimited continuations to form fibers. 
+The API is fashioned after SB-THREAD and has similar public interface.
 
 Author:
 

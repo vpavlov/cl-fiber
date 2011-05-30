@@ -1,0 +1,19 @@
+CL-FIBER is a simple API for creating cooperative multithreads. It is
+based on cl-cont and uses delimited continuations to form fibers. The
+API is fashioned after SB-THREAD and has similar public interface.
+
+Author:
+
+  Valentin Pavlov <x.pavlov@gmail.com>
+
+License:
+
+  MIT-style. See file LICENSE.txt for details.
+
+Bugs and Issues:
+
+  None yet, this is an early beta release, not tested enough.
+
+Usage example:
+
+  See test.lisp

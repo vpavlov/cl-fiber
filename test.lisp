@@ -1,4 +1,4 @@
-;;;; #!/usr/local/bin/sbcl --script
+#!/usr/local/bin/sbcl --script
 ;;;; -*- lisp -*-
 ;;;;============================================================================
 ;;;; Fibers API for Common Lisp

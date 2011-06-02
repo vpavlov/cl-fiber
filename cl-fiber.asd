@@ -35,7 +35,7 @@
   :description "Fiber API for Common Lisp"
   :version "1.0"
   :author "Valentin Pavlov <vpavlov@rila.bg>"
-  :license "GNU General Public License Version 3 (GPLv3)"
+  :license "MIT-style. See LICENSE for details."
   :serial t
   :depends-on (:cl-cont)
   :components (
